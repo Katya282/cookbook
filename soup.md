@@ -1,5 +1,10 @@
-this is soup ingredients
+#This is soup ingredients
 
 
-carrots
-potato
+-Carrots
+-Potato
+-Celery
+-Lentils
+-Chicken
+-Vegetable stock
+-Parsley
