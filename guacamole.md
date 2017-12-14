@@ -2,3 +2,5 @@
 
 -Avocado
 -Onion
+-Chili
+-Lime juice
