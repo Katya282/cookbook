@@ -3,3 +3,5 @@ this is soup ingredients
 
 carrots
 potato
+coriander
+salt
