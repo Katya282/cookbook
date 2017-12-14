@@ -4,3 +4,7 @@
 -Onion
 -Chili
 -Lime juice
+-Garlic
+-Tomatoes
+-Salt
+-Coriander
